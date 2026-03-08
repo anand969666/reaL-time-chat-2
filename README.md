@@ -1,4 +1,24 @@
 # Getting Started with Create React App
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : ANAND MISHRA
+
+INTERN ID : CTISAR00
+
+DOMAIN : PYTHON PROGRAMMING
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +88,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<img width="1366" height="638" alt="Image" src="https://github.com/user-attachments/assets/5a41754c-70bc-4c7c-b68c-d59b309895a0" />
